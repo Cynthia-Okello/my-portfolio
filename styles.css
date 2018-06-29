@@ -12,3 +12,9 @@ li{
   text-color: purple
   font-weight:bold;
 }
+h3,h4,h5{
+  font-size:30px;
+  font-weight:bold;
+  text-decoration-style: wavy;
+  text-color:purple;
+}
