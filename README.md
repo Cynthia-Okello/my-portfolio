@@ -10,3 +10,5 @@
    *cell-no.0706 907 895/0705 872 620
    *email-cynthiaokello050@gmail.com
 ## Link To live site on github-page check out this link:https://cynthia-okello.github.io/my-portfolio/
+##License
+   *MIT:https://github.com/rust-lang/rust/blob/master/LICENSE-MIT
