@@ -5,3 +5,7 @@
   *Navigate into my repository code tab
   *Click clone or download at your bottom right hand
   *Check out the projects I have done on the link when you clicked clone
+## Support and Contact details:
+   *If you have a problems,questions,ideas and concerns contact me on;
+   *cell-no.0706 907 895/0705 872 620
+   *email-cynthiaokello050@gmail.com
