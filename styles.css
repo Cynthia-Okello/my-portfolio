@@ -18,9 +18,11 @@ h3,h4,h5{
   font-style:italic;
   text-color:purple;
 }
-span{
+em{
   text-color:blue;
+  font-weight:bold;
 }
 strong{
   text-color:blue;
+  font-weight:bold;
 }
