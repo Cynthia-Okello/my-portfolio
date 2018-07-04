@@ -11,4 +11,4 @@
    *email-cynthiaokello050@gmail.com
 ## Link To live site on github-page check out this link:https://cynthia-okello.github.io/my-portfolio/
 ##License
-   * copyright Cynthia 2018 *MIT:https://github.com/rust-lang/rust/blob/master/LICENSE-MIT
+<p align="center">&copy; Copyright 2018 CynthiaOkello</p>
